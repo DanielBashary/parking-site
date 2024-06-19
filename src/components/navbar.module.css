@@ -1,0 +1,21 @@
+.navBar {
+  padding: 20px;
+  width: 100%;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.logoImage {
+  height: 50px;
+  margin-right: 20px;
+}
+
+.logoText {
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: bold;
+}

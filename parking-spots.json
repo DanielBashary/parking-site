@@ -1,0 +1,72 @@
+[
+    {
+        "vehicle_type": "gas",
+        "pk": "spot_3",
+        "spot_type": "regular",
+        "license_plate": null,
+        "timestamp": null
+    },
+    {
+        "vehicle_type": "gas",
+        "pk": "spot_9",
+        "spot_type": "regular",
+        "license_plate": "99-999-99",
+        "timestamp": "2024-06-18T14:36:06.249119+00:00"
+    },
+    {
+        "vehicle_type": "gas",
+        "pk": "spot_0",
+        "spot_type": "regular",
+        "license_plate": null,
+        "timestamp": null
+    },
+    {
+        "vehicle_type": "electric",
+        "pk": "spot_4",
+        "spot_type": "vip",
+        "license_plate": "66-328-28",
+        "timestamp": "2024-06-18T15:06:56.780779+00:00"
+    },
+    {
+        "vehicle_type": "gas",
+        "pk": "spot_5",
+        "spot_type": "vip",
+        "license_plate": null,
+        "timestamp": null
+    },
+    {
+        "vehicle_type": "electric",
+        "pk": "spot_6",
+        "spot_type": "regular",
+        "license_plate": null,
+        "timestamp": null
+    },
+    {
+        "vehicle_type": "electric",
+        "pk": "spot_2",
+        "spot_type": "vip",
+        "license_plate": null,
+        "timestamp": null
+    },
+    {
+        "vehicle_type": "electric",
+        "pk": "spot_8",
+        "spot_type": "regular",
+        "license_plate": null,
+        "timestamp": null
+    },
+    {
+        "vehicle_type": "electric",
+        "pk": "spot_7",
+        "spot_type": "regular",
+        "license_plate": null,
+        "timestamp": null
+    },
+    {
+        "vehicle_type": "gas",
+        "pk": "spot_1",
+        "spot_type": "regular",
+        "license_plate": null,
+        "timestamp": null
+    }
+]
